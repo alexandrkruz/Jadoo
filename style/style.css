@@ -797,6 +797,207 @@ margin-left: 40px;
   margin-right: 150px;
 }
 
+/*Trip-block*/
+
+.trip-block {
+  width: 100%;
+  margin-bottom: 150px; 
+}
+
+.trip-inner {
+  width: 100%;
+  overflow: auto;
+}
+
+.trip-info {
+  width: 50%;
+  float: left;
+}
+
+.trip-title {
+  text-align: left;
+}
+
+.trip-title:not(:last-child) {
+  margin-bottom: 15px;
+}
+
+.trip-title:not(:first-child) {
+  margin-bottom: 30px;
+}
+
+.trip-info-item {
+  width: 400px;
+  margin-bottom: 48px;
+  display: block;
+}
+
+.trip-info-item:not(:last-child) {
+  margin-bottom: 50px;
+}
+
+.trip-info-img {
+  float: left;
+  margin-right: 20px;
+  width: 50px;
+}
+
+.trip-info-title {
+  font-family: 'Poppins';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 124.5%;
+  color: #5E6282;
+}
+
+.trip-info-txt {
+  font-family: 'Poppins';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 124.5%;
+  color: #5E6282;
+  margin-top: 5px;
+}
+
+.trip-review {
+  width: 50%;
+  float: right;
+}
+
+.trip-item {
+  margin-left: 100px;
+  margin-top: 85px;
+}
+
+.greece-trip-item {
+  width: 370px;
+  background: #fff;
+  border-radius: 26px;
+  box-shadow: 60px -47px 48px #dceffa;
+  padding-top: 1px;
+}
+
+.item {
+  padding-bottom: 30px;
+  border-radius: 26px;
+  box-shadow: 0px 100px 80px rgba(0, 0, 0, 0.02), 0px 64.8148px 46.8519px rgba(0, 0, 0, 0.0151852), 0px 38.5185px 25.4815px rgba(0, 0, 0, 0.0121481), 0px 20px 13px rgba(0, 0, 0, 0.01), 0px 8.14815px 6.51852px rgba(0, 0, 0, 0.00785185), 0px 1.85185px 3.14815px rgba(0, 0, 0, 0.00481481);
+}
+
+.greece-trip-item-inner {
+  margin-left: 25px;
+}
+
+.greece-img {
+  width: 320px;
+  height: 160px;
+  margin: 20px auto;
+  display: block;
+}
+
+.greece-title {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 124.5%;
+  color: #080809;
+}
+
+.trip-date {
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 124.5%;
+  color: #84829A;
+  margin-top: 13px;
+}
+
+.trip-nav-icons {
+  margin: 20px 0px 30px 0px;
+}
+
+.trip-icon {
+  width: 35px;
+  margin-right: 15px;
+}
+
+.building-icon {
+  float: left;
+  margin-right: 15px;
+  width: 20px;
+}
+
+.people-number { 
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 124.5%;
+  color: #84829A;
+}
+
+.rome-trip-item {
+  width: 263px;
+  height: 129px;
+  border-radius: 26px;
+  background-color: #fff;
+  box-shadow: -8px 10px 15px #e5e5e5;
+  position: relative;
+  bottom: 180px;
+  left: 220px;
+}
+
+.rome-trip-img {
+  width: 50px;
+  float: left;
+  margin: 18px 0 0 20px;
+}
+
+.rome-trip-major-title {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 124.5%;
+  letter-spacing: -0.035em;
+  color: #84829A;
+  margin-left: 82px;
+  padding-top: 16px;
+}
+
+.rome-trip-title {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 124.5%;
+  color: #080809;
+  margin-left: 81px;
+  margin-top: 6px;
+}
+
+.complete {
+  margin-top: 14px;
+  margin-left: 80px;
+  font-family: 'Poppins';
+  font-weight: 500;
+  font-size: 14px;
+  letter-spacing: -0.055em;
+  line-height: 124.5%;
+}
+
+.procent {
+  color: #8A79DF;
+  margin-right: 5px;
+}
+
+.procent-line {
+  width: 156px;
+  margin-left: 82px;
+}
+img.trip-icon {
+  width: 30px;
+  margin-right: 10px;
+}
+
 
 
 
